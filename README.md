@@ -4,7 +4,7 @@
 
 # Morse Code
 
-> "Morse Code" is my first experience working with Ruby and it's basically a Morce code decoder.
+> In this project we learned how to use a module inside your class. For this we created a class `MyList` and a module `MyEnumerable`. the module MyEnumerable will implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html) like all?, any?, and filter.
 
 ## Built With
 
@@ -19,7 +19,7 @@
 - Clone this repo locally using git in the command line and the following command
 
  ```bash
- > git clone https://github.com/zhadier/morse-code 
+ > git clone git@github.com:Bondok6/Enumerable.git
  ```
 
 - Alternatively, you can just download the complete zip file and extract the folder in your directory
@@ -29,7 +29,7 @@
 In the project directory, you can run:
 
 ```bash
-> ruby Morse.rb
+> ruby list.rb
 ```
 
 or alternatively you can copy and paste the commands in

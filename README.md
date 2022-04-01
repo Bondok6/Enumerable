@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Morse Code
+# Enumerable
 
 > In this project we learned how to use a module inside your class. For this we created a class `MyList` and a module `MyEnumerable`. the module MyEnumerable will implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
